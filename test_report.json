@@ -1,0 +1,80 @@
+[
+  {
+    "test": "Database Connection",
+    "status": "FAIL",
+    "duration": 0.0,
+    "result": false
+  },
+  {
+    "test": "AI Client Initialization",
+    "status": "PASS",
+    "duration": 3.3,
+    "result": true
+  },
+  {
+    "test": "Hotel Data Loading",
+    "status": "FAIL",
+    "duration": 0.0,
+    "result": false
+  },
+  {
+    "test": "Intent Extraction",
+    "status": "PASS",
+    "duration": 4.29,
+    "result": true
+  },
+  {
+    "test": "Booking Info Extraction",
+    "status": "PASS",
+    "duration": 1.72,
+    "result": true
+  },
+  {
+    "test": "Greeting Flow",
+    "status": "PASS",
+    "duration": 0.76,
+    "result": true
+  },
+  {
+    "test": "Inquiry Flow",
+    "status": "PASS",
+    "duration": 2.87,
+    "result": true
+  },
+  {
+    "test": "Complete Booking Flow",
+    "status": "PASS",
+    "duration": 3.69,
+    "result": true
+  },
+  {
+    "test": "Database Operations",
+    "status": "PASS",
+    "duration": 0.01,
+    "result": true
+  },
+  {
+    "test": "Instagram Client Setup",
+    "status": "FAIL",
+    "duration": 1.46,
+    "result": false
+  },
+  {
+    "test": "Webhook Parsing",
+    "status": "PASS",
+    "duration": 0.0,
+    "result": true
+  },
+  {
+    "test": "Error Handling",
+    "status": "PASS",
+    "duration": 0.0,
+    "result": true
+  },
+  {
+    "test": "Integration Test",
+    "status": "FAIL",
+    "duration": 3.67,
+    "result": false
+  }
+]
